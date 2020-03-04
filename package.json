@@ -1,0 +1,19 @@
+{
+  "name": "jest-structure-generator",
+  "version": "1.0.0",
+  "description": "Generate the entire structure of your javascript Jest test files in the blink of an eye!",
+  "main": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehenon/jest-structure-generator.git"
+  },
+  "author": "Emilien Henon",
+  "license": "ISC",
+  "bin": {
+    "generate": "./cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ehenon/jest-structure-generator/issues"
+  },
+  "homepage": "https://github.com/ehenon/jest-structure-generator#readme"
+}
